@@ -1,7 +1,7 @@
 This repository contains Hadoop examples implemented on **CLOUDERA SANDBOX**.
 
 ### Table of Contents
-- <a href='#map'>Map Reduce</a> 
+- <a href='#map-reduce'>Map Reduce</a> 
 - <a href='#hive'>Hive</a>  
 
 <hr>
@@ -20,5 +20,6 @@ This repository contains Hadoop examples implemented on **CLOUDERA SANDBOX**.
   * Load the file in a Hive Table.
   * Code and Execute [[Source Code]](https://github.com/rahulvaish/Apache-Hadoop/tree/Hive) 
   * ###### [Hive Reference Documents](https://github.com/rahulvaish/ReferenceDocuments/tree/master/UnderstandingApacheHadoop/Hive)
+
 
 <hr>
