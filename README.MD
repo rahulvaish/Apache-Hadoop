@@ -19,6 +19,6 @@ This repository contains Hadoop examples implemented on **CLOUDERA SANDBOX**.
   * Create a text filw with data (seperated by comma).
   * Load the file in a Hive Table.
   * Code and Execute [[Source Code]](https://github.com/rahulvaish/Apache-Hadoop/tree/Hive) 
-  * [Hive Reference Documents](https://github.com/rahulvaish/ReferenceDocuments/tree/master/UnderstandingApacheHadoop/Hive)
+  * ###### [Hive Reference Documents](https://github.com/rahulvaish/ReferenceDocuments/tree/master/UnderstandingApacheHadoop/Hive)
 
 <hr>
