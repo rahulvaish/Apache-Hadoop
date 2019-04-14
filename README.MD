@@ -13,6 +13,10 @@ This repository contains Hadoop examples implemented on **CLOUDERA SANDBOX**.
   ![image](https://user-images.githubusercontent.com/689226/54812800-07c8ca80-4cb2-11e9-8fa3-bcaaae651d71.png)
   * Code and Execute [[Source Code]](https://github.com/rahulvaish/Apache-Hadoop/tree/MapReduce) 
   ![image](https://user-images.githubusercontent.com/689226/54812848-20d17b80-4cb2-11e9-85e0-40f87a5d137b.png)
+  * Map Reduce Throritical Diagram: 
+  ![image](https://user-images.githubusercontent.com/689226/56091205-40cb1800-5ec9-11e9-9956-9456aa8e1adb.png)
+
+
 
 - ###### [Hive](https://github.com/rahulvaish/Apache-Hadoop/tree/Hive)
    ###### This word count example demonstates Java Program interacting with Hive. [[Source Code]](https://github.com/rahulvaish/Apache-Hadoop/tree/Hive) 
