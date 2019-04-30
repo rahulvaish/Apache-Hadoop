@@ -4,7 +4,7 @@ This repository contains Hadoop examples implemented on **CLOUDERA SANDBOX**. </
 ### Table of Contents
 - <a href='#map-reduce'>Map Reduce</a> 
 - <a href='#hive'>Hive</a>  
-- <a href='hbase'>HBase</a>
+- <a href='#hbase'>HBase</a>
 
 <hr>
 
