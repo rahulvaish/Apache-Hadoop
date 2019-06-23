@@ -1,5 +1,4 @@
-This repository contains Hadoop examples implemented on **CLOUDERA SANDBOX**. </br>
-###### Link to Reference Documents [HERE](https://github.com/rahulvaish/ReferenceDocuments/tree/master/UnderstandingApacheHadoop)
+This repository contains Hadoop experiments implemented on **CLOUDERA SANDBOX** + **Ubuntu-18**. </br>
 
 ### Table of Contents
 - <a href='#map-reduce'>Map Reduce</a> 
@@ -21,12 +20,8 @@ This repository contains Hadoop examples implemented on **CLOUDERA SANDBOX**. </
 
 
 - ###### [Hive](https://github.com/rahulvaish/Apache-Hadoop/tree/Hive)
-   ###### This word count example demonstates Java Program interacting with Hive. [[Source Code]](https://github.com/rahulvaish/Apache-Hadoop/tree/Hive) 
-  * Create a text filw with data (seperated by comma).
-  * Load the file in a Hive Table.
-  * Code and Execute [[Source Code]](https://github.com/rahulvaish/Apache-Hadoop/tree/Hive) 
-  
-  ###### Here is a collection of [Hive Reference Documents](https://github.com/rahulvaish/ReferenceDocuments/tree/master/UnderstandingApacheHadoop/Hive).
+   ###### This example demonstates a simple Java Program interacting with Hive. [[Source Code]](https://github.com/rahulvaish/Apache-Hadoop/tree/Hive)   
+   ######  [Hive Reference Documents](https://github.com/rahulvaish/ReferenceDocuments/tree/master/UnderstandingApacheHadoop/Hive).
 
 <hr>
 
